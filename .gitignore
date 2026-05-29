@@ -1,0 +1,25 @@
+```gitignore id="git6"
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Docker
+*.log
+
+# Build folders
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+```
