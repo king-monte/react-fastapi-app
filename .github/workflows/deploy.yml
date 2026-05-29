@@ -66,7 +66,7 @@ jobs:
 
             set -e
 
-            cd ~/projects/react-fastapi-devops
+            cd ~/react-fastapi-app
 
             echo "===== PULL LATEST IMAGES ====="
 
